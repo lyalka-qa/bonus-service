@@ -8,4 +8,4 @@ public class Main {
         service.calculate(amount, registered);
     }
 }
-}
+
